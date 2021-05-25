@@ -68,20 +68,10 @@
           </e>
         </e>
         <e p="WWHY" t="Include">
-          <e p="Icon" t="Include">
-            <e p="Example" t="Include">
-              <e p="Tester.cs" t="Include" />
-            </e>
-            <e p="Scripts" t="Include">
-              <e p="Icon2dData.cs" t="Include" />
-              <e p="IconManger.cs" t="Include" />
-            </e>
-          </e>
           <e p="RTSCamera" t="Include">
             <e p="Scripts" t="Include">
               <e p="CameraGroup.cs" t="Include" />
               <e p="CameraTargets.cs" t="Include" />
-              <e p="HYCinemachineConfiner.cs" t="Include" />
               <e p="RTSExt.cs" t="Include" />
             </e>
           </e>
